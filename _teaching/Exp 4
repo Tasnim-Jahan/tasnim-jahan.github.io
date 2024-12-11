@@ -1,16 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Data Science & Business Analytics Intern"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Organize, compile, transform, and clean data by maintaining data integrity.
+
+✓ Acquired practical experience of statistical analysis in R, SPSS, and SQL-based query languages.
+
+✓ Visualize data through Tableau and Power BI to generate valuable insights."
+
+permalink: /teaching/Exp 4
+
+venue: "Singapore"
+
+date: September 2021 - October 2021
+
+location: Remote
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
 ======
 
 Heading 2
