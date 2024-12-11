@@ -1,18 +1,19 @@
 ---
-title: "Education Facilitator"
+title: "Junior Teacher(Mathematics)"
 collection: teaching
-type: "	Educated nearly 300 women and adolescent girls at the Rohingya camp by facilitating and monitoring literacy and numeracy sessions at the Rohingya camp and participated in pilot projects by taking early childhood development (ECD) sessions at the Rohingya camp.
+type: "	Planned, prepared, and delivered courses in English medium according to the curriculum and abilities of the students.
 
-	Utilising the kobo toolbox, conducted baseline surveys and collected the beginning and ending cycle data of over 150 participants who attended sessions.
+	Gained accolades for performing duties as class teacher of about 60 STD-I students.
 
-	Participated in lesson plan development, preserving documentation and reports submission."
+	Established math club to demonstrate the beauty of mathematics by discussing its fundamentals, performing quizzes, and arranging competitions to encourage students."
+
 permalink: /teaching/2014-spring-teaching-1
 
-venue: "DanChurch Aid (DCA)"
+venue: "Mainamati International School and College"
 
-date: January 2019 -  April 2020
+date: March 2018 -December 2018
 
-location: "Cox’s Bazar, Bangladesh"
+location: "Cumilla, Bangladesh"
 ---
 
 
