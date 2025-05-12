@@ -8,27 +8,29 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tasnim Jahan - Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://tasnim-jahan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Tasnim Jahan"
+description              : &description "Educator & Researcher in Deep Learning, Computer Vision, and Data Science"
+url                      : https://tasnim-jahan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/tasnim-jahan.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Tasnim Jahan"
-  pronouns         : # example: "she/her"  
-  bio              : "Seeking Ph.D. Opportunities | Computer Vision Enthusiast | MSCSE Graduate (Data Science Major) | BSc & MSc in Mathematics"
-  location         : "Cumilla, Bangladesh"
-  employer         : "United International University"
-  uri              : # URL
-  email            : "none@example.org" 
+avatar           : "profile.png"
+name             : "Tasnim Jahan"
+pronouns         : "she/her"
+bio              : "Ph.D. Aspirant in Computer Vision | MSc in CSE (Data Science, UIU) | BSc & MSc in Mathematics | Research Interests: Deep Learning, Medical Imaging, NLP"
+location         : "Cumilla, Bangladesh"
+employer         : "Bytes of Intelligence"
+uri              : "https://tasnim-jahan.github.io"
+email            : "tasnimjahan.cou@gmail.com"
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
