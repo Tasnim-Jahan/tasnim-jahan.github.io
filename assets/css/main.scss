@@ -2,22 +2,16 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+ * Minimal Mistakes Jekyll Theme
+ */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
 
 @import "reset";
 @import "base";
-
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -27,9 +21,7 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
-
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
@@ -40,7 +32,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Custom academic website colours */
+/* Website colours */
 :root {
   --page-bg: #eef3f5;
   --sidebar-bg: #ffffff;
@@ -66,13 +58,13 @@ body {
   color: var(--primary);
 }
 
+a {
+  color: var(--secondary);
+}
+
 .greedy-nav a:hover,
 a:hover {
   color: var(--primary);
-}
-
-a {
-  color: var(--secondary);
 }
 
 .page__title,
@@ -97,11 +89,70 @@ h3 {
 }
 
 .page__content h2 {
-  border-bottom: 2px solid var(--border);
-  padding-bottom: 7px;
   margin-top: 32px;
+  padding-bottom: 7px;
+  border-bottom: 2px solid var(--border);
 }
 
+/* PhD opportunity highlight */
+.phd-highlight {
+  width: 100%;
+  margin: 24px 0;
+  padding: 14px 18px;
+  box-sizing: border-box;
+  background: #eaf3fb;
+  border-left: 5px solid var(--primary);
+  border-radius: 6px;
+  color: var(--primary);
+  font-size: 1.08em;
+  font-weight: 700;
+}
+
+/* Education and experience institution/date rows */
+.edu-row,
+.exp-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+  gap: 24px;
+  margin: 8px 0 12px;
+  padding-right: 24px;
+  box-sizing: border-box;
+}
+
+.edu-row strong:first-child,
+.exp-row strong:first-child {
+  text-align: left;
+}
+
+.edu-row strong:last-child,
+.exp-row strong:last-child {
+  margin-left: auto;
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* Justified bullet descriptions */
+.justify-text {
+  width: 100%;
+  padding-right: 24px;
+  box-sizing: border-box;
+}
+
+.justify-text ul {
+  margin: 10px 0 18px;
+  padding-left: 38px;
+}
+
+.justify-text li {
+  margin-bottom: 7px;
+  padding-left: 3px;
+  text-align: justify;
+  text-align-last: left;
+}
+
+/* Desktop layout */
 @media (min-width: 925px) {
   .sidebar {
     background: var(--sidebar-bg);
@@ -125,24 +176,6 @@ h3 {
     margin-left: 16px;
   }
 }
-/* Change 16px to 20px for more space. This will not change the sidebar width or affect the main content. */
-@media (min-width: 925px) {
-  .author__content,
-  .author__urls-wrapper {
-    margin-left: 16px;
-  }
-}
-
-.phd-highlight {
-  margin: 24px 0;
-  padding: 14px 18px;
-  background: #eaf3fb;
-  border-left: 5px solid #1f4e79;
-  color: #1f4e79;
-  font-size: 1.08em;
-  font-weight: 700;
-  border-radius: 6px;
-}
 
 @media (min-width: 1024px) {
   #main {
@@ -151,17 +184,6 @@ h3 {
 
   .page {
     width: calc(100% - 260px) !important;
-    padding-right: 20px !important;
-  }
-
-  .phd-highlight {
-    width: 100% !important;
-    box-sizing: border-box;
-  }
-}
-/* to make justify */
-@media (min-width: 1024px) {
-  .page {
     padding-left: 24px !important;
     padding-right: 24px !important;
     box-sizing: border-box;
@@ -174,47 +196,14 @@ h3 {
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
-
-  .phd-highlight {
-    width: 100% !important;
-    box-sizing: border-box;
-  }
 }
 
-.edu-row,
-.exp-row,
-.justify-text {
-  width: 100%;
-  max-width: 100%;
-  padding-left: 0;
-  padding-right: 24px;
-  box-sizing: border-box;
-}
-
-.edu-row,
-.exp-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 24px;
-  margin: 8px 0 12px;
-}
-
-.edu-row strong:last-child,
-.exp-row strong:last-child {
-  margin-left: auto;
-  text-align: right;
-  white-space: nowrap;
-}
-
-.justify-text {
-  text-align: justify;
-}
-
+/* Mobile layout */
 @media (max-width: 700px) {
   .edu-row,
   .exp-row {
     display: block;
+    padding-right: 0;
   }
 
   .edu-row strong,
@@ -225,13 +214,16 @@ h3 {
   .edu-row strong:last-child,
   .exp-row strong:last-child {
     margin-top: 4px;
+    margin-left: 0;
     text-align: left;
     white-space: normal;
   }
 
-  .edu-row,
-  .exp-row,
   .justify-text {
     padding-right: 0;
+  }
+
+  .justify-text ul {
+    padding-left: 25px;
   }
 }
