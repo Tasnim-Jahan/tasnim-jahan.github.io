@@ -39,3 +39,77 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom academic website colours */
+:root {
+  --primary: #1f4e79;
+  --secondary: #2a7f9e;
+  --light-bg: #f3f7fb;
+  --text-dark: #243447;
+  --border: #d9e4ee;
+}
+
+body {
+  color: var(--text-dark);
+}
+
+.masthead {
+  border-bottom: 3px solid var(--secondary);
+}
+
+.greedy-nav a {
+  color: var(--primary);
+}
+
+.greedy-nav a:hover {
+  color: var(--secondary);
+}
+
+.page__title,
+.archive__item-title,
+h1,
+h2,
+h3 {
+  color: var(--primary);
+}
+
+a {
+  color: var(--secondary);
+}
+
+a:hover {
+  color: var(--primary);
+}
+
+.btn--primary {
+  background-color: var(--primary);
+  border-radius: 6px;
+}
+
+.btn--primary:hover {
+  background-color: var(--secondary);
+}
+
+.sidebar {
+  background: var(--light-bg);
+  padding: 18px;
+  border-radius: 12px;
+}
+
+.author__avatar img {
+  border: 4px solid var(--secondary);
+}
+
+.page__content h2 {
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 7px;
+  margin-top: 32px;
+}
+
+.archive__item {
+  background: var(--light-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 18px;
+  margin-bottom: 20px;
+}
