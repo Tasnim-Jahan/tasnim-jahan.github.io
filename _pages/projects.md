@@ -86,7 +86,7 @@ author_profile: true
 - Developed a machine learning pipeline for early detection of hypothyroid disorder using clinical and demographic data.
 - Applied imputation, feature encoding, scaling, and SMOTE to address missing values and class imbalance.
 - Trained and compared Decision Tree, Logistic Regression, SVM, and Random Forest classifiers.
-- Random Forest achieved the best performance, with an accuracy of **98.7%**.
+- Random Forest achieved the best performance, with an accuracy of **98.70%**.
 
 </div>
 
@@ -103,7 +103,7 @@ author_profile: true
 
 - Developed a machine learning pipeline to predict customer purchases within 90 days using transactional retail data.
 - Trained and evaluated Logistic Regression, Decision Tree, Random Forest, and Gaussian Naive Bayes.
-- Logistic Regression achieved the strongest performance, with **99.1% accuracy** and a **98.5% F1-score**, while Gaussian Naive Bayes provided the fastest inference.
+- Logistic Regression achieved the strongest performance, with **99.10% accuracy** and a **98.50% F1-score**, while Gaussian Naive Bayes provided the fastest inference.
 
 </div>
 
@@ -120,7 +120,7 @@ author_profile: true
 
 - Collected and labelled more than 1,800 Bangla financial headlines from the Prothom Alo newspaper.
 - Evaluated multiple machine learning classifiers for financial sentiment classification.
-- SVM achieved the highest F1-score of **78%**, while Logistic Regression achieved an accuracy of **76.6%**.
+- SVM achieved the highest F1-score of **78%**, while Logistic Regression achieved an accuracy of **76.60%**.
 
 </div>
 
@@ -136,7 +136,7 @@ author_profile: true
 <div class="justify-text" markdown="1">
 
 - Integrated financial time-series data with information extracted from news using large language models for weekly stock movement prediction.
-- Improved Logistic Regression accuracy from **54.8% to 63.0%** and F1-score from **42.1% to 60.9%**.
+- Improved Logistic Regression accuracy from **54.80% to 63%** and F1-score from **42.10% to 60.90%**.
 
 </div>
 
