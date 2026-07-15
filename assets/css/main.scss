@@ -198,6 +198,7 @@ h3 {
   }
 }
 
+/*propic middle*/
 /* Mobile layout */
 @media (max-width: 700px) {
   .edu-row,
@@ -225,20 +226,24 @@ h3 {
 
   .justify-text ul {
     padding-left: 25px;
+  }
+}
 
-
-/*to bring pro pic in th middle of the siedebar*/
+/* Centre profile picture in desktop sidebar */
 @media (min-width: 925px) {
   .author__avatar {
-    width: 100% !important;
-    display: flex !important;
-    justify-content: center !important;
+    display: block !important;
+    width: 175px !important;
     margin: 0 auto 16px !important;
   }
 
   .author__avatar img {
     display: block !important;
+    width: 175px !important;
+    height: 175px !important;
     margin: 0 auto !important;
+    object-fit: cover;
+    border-radius: 50%;
   }
 }
   }
