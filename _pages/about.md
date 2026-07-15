@@ -53,10 +53,9 @@ This work investigates critical subnetworks and feature representations involved
 - Ranked **5th** in the RISE-MICCAI LISA 2025 Challenge on 3D hippocampus segmentation from ultra-low-field MRI.
 - Graduated **Summa Cum Laude** with an MSc in Computer Science and Engineering and a CGPA of **3.92/4.00**.
 
+**I am actively seeking PhD opportunities in Computer Vision and Machine Learning.**
 
 <h2 id="contact">Contact</h2>
-
-**I am actively seeking PhD opportunities in Computer Vision and Machine Learning.**
 
 **Email:** [tasnimjahanjeny@gmail.com](mailto:tasnimjahanjeny@gmail.com)
 
