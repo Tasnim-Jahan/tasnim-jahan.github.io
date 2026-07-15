@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Tasnim Jahan**, a **computer vision and machine learning researcher from Bangladesh**. I currently conduct research under the supervision of **Prof. Andrew King (King’s College London)** and **Prof. Swakkhar Shatabda (BRAC University)**.
+Hello! I am **Tasnim Jahan**, a **computer vision and machine learning researcher from Bangladesh**. I currently conduct research under the supervision of **[Prof. Andrew King](https://www.kcl.ac.uk/people/andrew-king)** at King’s College London and **[Prof. Swakkhar Shatabda](https://cse.sds.bracu.ac.bd/faculty_profile/333/dr_swakkhar_shatabda)** at BRAC University.
 
-My research focuses on **few-shot learning, domain generalization, representation learning, foundation models, and image segmentation**. I am particularly interested in developing **robust, transferable, and data-efficient methods** that generalize across datasets and domains.
+My research focuses on **few-shot learning, domain generalization, representation learning, foundation models, and image segmentation**. I am particularly interested in developing robust, transferable, and data-efficient methods that generalize across datasets and domains.
 
-I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics**, which underpin my interest in **mathematically grounded and algorithm-focused machine learning research**.
+I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics**, which underpin my interest in mathematically grounded and algorithm-focused machine learning research.
 
 **I am actively seeking PhD opportunities in Computer Vision and Machine Learning.**
 
