@@ -13,16 +13,6 @@ My research focuses on few-shot learning, domain generalization, representation 
 
 I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics**, which underpin my interest in mathematically grounded and algorithm-focused machine learning research.
 
-<div class="phd-highlight">
-  Actively seeking PhD opportunities in Computer Vision, NLP and Machine Learning.
-</div>
-
-<div style="margin: 22px 0;">
-  <a href="/publications/" class="btn btn--primary">View Publications</a>
-  <a href="/portfolio/" class="btn btn--primary">Explore Research</a>
-  <a href="/cv/" class="btn btn--primary">View CV</a>
-</div>
-
 <h2 id="publications">Publications and Ongoing Research</h2>
 
 ### HyProDINO: Hybrid Prototype-guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
