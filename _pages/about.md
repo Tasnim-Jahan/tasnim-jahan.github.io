@@ -42,7 +42,7 @@ HyProDINO combines trainable medical image representations with transferable sem
 **Status:** Submitted to the MIML Workshop, MICCAI 2026.
 
 [View project details](/portfolio/hyprodino/)
-
+*Project page coming soon.*
 ---
 
 ### ThyCLIPNet
@@ -54,7 +54,7 @@ ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced Deep
 **Status:** Under revision for a journal.
 
 [View project details](/portfolio/thyclipnet/)
-
+*Project page coming soon.*
 ---
 
 ### Explainable Deepfake Detection
@@ -82,6 +82,10 @@ My long-term research goal is to develop computer vision methods that remain rel
 
 I welcome discussions regarding PhD opportunities, research collaboration, and related work in computer vision and machine learning.
 
-## Contact
+<h2 id="contact">Contact</h2>
 
-The best way to contact me is through email. You can also find my work through Google Scholar, GitHub, ORCID, ResearchGate, and LinkedIn using the links in the sidebar.
+I am open to PhD opportunities, research collaborations, and discussions related to computer vision, representation learning, few-shot learning, domain generalization, and medical image analysis.
+
+**Email:** [tasnimjahanjeny@gmail.com](mailto:tasnimjahanjeny@gmail.com)
+
+You can also find my work through Google Scholar, GitHub, ORCID, ResearchGate, and LinkedIn using the links in the sidebar.
