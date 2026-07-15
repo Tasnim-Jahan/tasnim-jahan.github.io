@@ -35,7 +35,7 @@ HyProDINO combines trainable medical image representations with transferable sem
 
 ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced DeepLabV3+ architecture for accurate and computationally efficient thyroid nodule segmentation across multiple ultrasound datasets.
 
-**Status:** Under revision for a journal.
+**Status:** Manuscript under revision at a Q1 journal.
 ---
 
 ### Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis
