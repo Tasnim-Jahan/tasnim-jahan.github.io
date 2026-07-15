@@ -14,8 +14,10 @@ main:
   - title: "Teaching & Service"
     url: /teaching-service/
 
+  #- title: "CV"
+    #url: /cv/
   - title: "CV"
     url: /cv/
-
+  
   - title: "Contact"
     url: /#contact
