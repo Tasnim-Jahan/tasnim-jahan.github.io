@@ -7,7 +7,10 @@ author_profile: true
 
 ## M.Sc. in Computer Science and Engineering — Data Science Major
 
-**United International University, Dhaka, Bangladesh**  **October 2021 – June 2024**
+<div class="edu-row">
+  <strong>United International University, Dhaka, Bangladesh</strong>
+  <strong>October 2021 – June 2024</strong>
+</div>
 
 - Graduated ***Summa Cum Laude*** with a CGPA of **3.92/4.00**
 - Achieved a CGPA of **4.00/4.00** in the final five semesters
@@ -17,7 +20,10 @@ author_profile: true
 
 ## M.Sc. in Mathematics
 
-**Comilla University, Cumilla, Bangladesh**  **January 2016 – April 2017**
+<div class="edu-row">
+  <strong>Comilla University, Cumilla, Bangladesh</strong>
+  <strong>January 2016 – April 2017</strong>
+</div>
 
 - CGPA: **3.77/4.00**
 - Thesis: *Bernoulli’s Equation with the Variation of Velocity, Density, and Diameter of Pipe*
@@ -27,7 +33,10 @@ author_profile: true
 
 ## B.Sc. in Mathematics
 
-**Comilla University, Cumilla, Bangladesh**  **March 2010 – January 2016**
+<div class="edu-row">
+  <strong>Comilla University, Cumilla, Bangladesh</strong>
+  <strong>March 2010 – January 2016</strong>
+</div>
 
 - CGPA: **3.61/4.00**
 - Project: *Numerical Study for Solving Initial Value Problems in Ordinary Differential Equations Using Single-Step and Multi-Step Methods*
@@ -37,7 +46,10 @@ author_profile: true
 
 ## Higher Secondary Certificate (HSC)
 
-**Mvi. Shamsul Karim College, Feni, Bangladesh**  **July 2006 – September 2008**
+<div class="edu-row">
+  <strong>Mvi. Shamsul Karim College, Feni, Bangladesh</strong>
+  <strong>July 2006 – September 2008</strong>
+</div>
 
 - Science Group
 - GPA: **5.00/5.00**
@@ -46,7 +58,36 @@ author_profile: true
 
 ## Secondary School Certificate (SSC)
 
-**Chhagalnaiya Pilot Girls’ High School, Feni, Bangladesh**  **January 2004 – June 2006**
+<div class="edu-row">
+  <strong>Chhagalnaiya Pilot Girls’ High School, Feni, Bangladesh</strong>
+  <strong>January 2004 – June 2006</strong>
+</div>
 
 - Science Group
 - GPA: **5.00/5.00**
+
+.edu-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+  margin: 8px 0 12px;
+}
+
+.edu-row strong:last-child {
+  white-space: nowrap;
+  text-align: right;
+}
+
+@media (max-width: 700px) {
+  .edu-row {
+    display: block;
+  }
+
+  .edu-row strong:last-child {
+    display: block;
+    margin-top: 4px;
+    text-align: left;
+    white-space: normal;
+  }
+}
