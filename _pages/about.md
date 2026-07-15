@@ -29,6 +29,7 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 HyProDINO combines trainable medical image representations with transferable semantic features from DINOv2. The framework uses support-derived prototypes, query-aware prototype calibration, support-conditioned adaptation, and dense support-query relation modelling to segment structures in previously unseen target domains using only a few annotated examples.
 
 **Status:** Submitted to the MIML Workshop, MICCAI 2026.
+
 ---
 
 ### ThyCLIPNet: BiomedCLIP-Guided Lightweight Framework for Robust Thyroid Nodule Segmentation
@@ -36,6 +37,7 @@ HyProDINO combines trainable medical image representations with transferable sem
 ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced DeepLabV3+ architecture for accurate and computationally efficient thyroid nodule segmentation across multiple ultrasound datasets.
 
 **Status:** Manuscript under revision at a Q1 journal.
+
 ---
 
 ### Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis
