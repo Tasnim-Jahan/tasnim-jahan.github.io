@@ -14,7 +14,7 @@ My research focuses on few-shot learning, domain generalization, representation 
 I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics**, which underpin my interest in mathematically grounded and algorithm-focused machine learning research.
 
 <div class="phd-highlight">
-  I am actively seeking PhD opportunities in Computer Vision and Machine Learning.
+  Actively seeking PhD opportunities in Computer Vision, NLP and Machine Learning.
 </div>
 
 <div style="margin: 22px 0;">
