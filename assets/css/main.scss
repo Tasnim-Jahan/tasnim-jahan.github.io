@@ -114,53 +114,50 @@ a:hover {
   margin-bottom: 20px;
 }
 
-/* Profile image, columns, and background */
+/* Clean page background and safe profile image size */
 body {
-  background-image: linear-gradient(rgba(245, 250, 240, 0.82), rgba(245, 250, 240, 0.82)), url("/images/background2.jpeg");
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
+  background: #eef3f5 !important;
 }
 
 .masthead {
-  background: rgba(255, 255, 255, 0.94) !important;
+  background: #ffffff !important;
 }
 
-.initial-content,
-#main {
+.initial-content {
   background: transparent !important;
 }
 
-@media (min-width: 1024px) {
-  .sidebar {
-    width: 280px !important;
-    padding: 35px 18px 18px !important;
-    margin-top: 0 !important;
-    background: rgba(255, 255, 255, 0.84) !important;
-    border-radius: 0 !important;
-  }
+#main {
+  background: #ffffff !important;
+  padding-top: 25px !important;
+}
 
+.sidebar {
+  background: #ffffff !important;
+  padding: 18px !important;
+  border-radius: 0 !important;
+}
+
+.page,
+.archive {
+  background: #ffffff !important;
+  padding: 18px !important;
+}
+
+@media (min-width: 1024px) {
   .author__avatar {
     display: block !important;
-    width: 230px !important;
+    width: 190px !important;
     margin: 0 auto 18px !important;
-    overflow: visible !important;
   }
 
   .author__avatar img {
     display: block !important;
-    width: 230px !important;
-    height: 230px !important;
-    max-width: 230px !important;
+    width: 190px !important;
+    height: 190px !important;
+    max-width: 190px !important;
     object-fit: cover !important;
     border: 4px solid var(--secondary) !important;
     border-radius: 50% !important;
-  }
-
-  .page,
-  .archive {
-    padding: 25px !important;
-    background: rgba(255, 255, 255, 0.84) !important;
   }
 }
