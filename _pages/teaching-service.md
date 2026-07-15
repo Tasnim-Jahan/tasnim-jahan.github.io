@@ -1,8 +1,18 @@
+---
+layout: archive
+title: "Teaching & Service"
+permalink: /teaching-service/
+author_profile: true
+---
+
 ## Teaching Experience
 
 ### Section Leader — Stanford Code in Place
 
-**Stanford University · Remote · April 2026 – May 2026**
+<div class="exp-row">
+  <strong>Stanford University · Remote</strong>
+  <strong>April 2026 – May 2026</strong>
+</div>
 
 <div class="justify-text">
 
@@ -16,7 +26,10 @@
 
 ### Instructor — Mathematics
 
-**Institute of Computer Science and Technology · Feni, Bangladesh · January 2017 – March 2018**
+<div class="exp-row">
+  <strong>Institute of Computer Science and Technology · Feni, Bangladesh</strong>
+  <strong>January 2017 – March 2018</strong>
+</div>
 
 <div class="justify-text">
 
@@ -29,7 +42,10 @@
 
 ### Junior Teacher — Mathematics
 
-**Mainamati English School and College · Cumilla, Bangladesh · March 2018 – December 2018**
+<div class="exp-row">
+  <strong>Mainamati English School and College · Cumilla, Bangladesh</strong>
+  <strong>March 2018 – December 2018</strong>
+</div>
 
 <div class="justify-text">
 
@@ -42,7 +58,10 @@
 
 ### Programme Organizer — Education
 
-**Jagorani Chakra Foundation · Cox’s Bazar, Bangladesh · January 2022 – April 2022**
+<div class="exp-row">
+  <strong>Jagorani Chakra Foundation · Cox’s Bazar, Bangladesh</strong>
+  <strong>January 2022 – April 2022</strong>
+</div>
 
 <div class="justify-text">
 
@@ -56,7 +75,10 @@
 
 ### Field Data Collector
 
-**BRAC James P Grant School of Public Health · Dhaka, Bangladesh · November 2021 – December 2021**
+<div class="exp-row">
+  <strong>BRAC James P Grant School of Public Health · Dhaka, Bangladesh</strong>
+  <strong>November 2021 – December 2021</strong>
+</div>
 
 <div class="justify-text">
 
@@ -69,7 +91,10 @@
 
 ### Education Facilitator
 
-**DanChurch Aid · Cox’s Bazar, Bangladesh · January 2019 – April 2020**
+<div class="exp-row">
+  <strong>DanChurch Aid · Cox’s Bazar, Bangladesh</strong>
+  <strong>January 2019 – April 2020</strong>
+</div>
 
 <div class="justify-text">
 
@@ -82,7 +107,10 @@
 
 ### Reviewer
 
-**Biomedical Signal Processing and Control**
+<div class="exp-row">
+  <strong>Biomedical Signal Processing and Control</strong>
+  <strong>Academic Service</strong>
+</div>
 
 <div class="justify-text">
 
@@ -94,7 +122,10 @@
 
 ### Mentee — RISE-MICCAI Mentorship Program
 
-**October 2025 – October 2026**
+<div class="exp-row">
+  <strong>RISE-MICCAI</strong>
+  <strong>October 2025 – October 2026</strong>
+</div>
 
 <div class="justify-text">
 
@@ -102,10 +133,37 @@
 
 </div>
 
+
+.exp-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 20px;
+  margin: 6px 0 10px;
+}
+
+.exp-row strong:last-child {
+  white-space: nowrap;
+  text-align: right;
+}
+
 .justify-text {
   text-align: justify;
 }
 
 .justify-text li {
   margin-bottom: 6px;
+}
+
+@media (max-width: 700px) {
+  .exp-row {
+    display: block;
+  }
+
+  .exp-row strong:last-child {
+    display: block;
+    margin-top: 4px;
+    text-align: left;
+    white-space: normal;
+  }
 }
