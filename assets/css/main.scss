@@ -197,6 +197,14 @@ h3 {
     padding-right: 0 !important;
   }
 }
+/*gap between the sidebar and main content on the Education, Projects, and Teaching & Service pages.*/
+@media (min-width: 1024px) {
+  .archive {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+    box-sizing: border-box;
+  }
+}
 
 /*propic middle*/
 /* Mobile layout */
