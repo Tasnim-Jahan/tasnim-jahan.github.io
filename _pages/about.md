@@ -13,7 +13,9 @@ My research focuses on few-shot learning, domain generalization, representation 
 
 I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics**, which underpin my interest in mathematically grounded and algorithm-focused machine learning research.
 
-**I am actively seeking PhD opportunities in Computer Vision and Machine Learning.**
+<div class="phd-highlight">
+  I am actively seeking PhD opportunities in Computer Vision and Machine Learning.
+</div>
 
 <div style="margin: 22px 0;">
   <a href="/publications/" class="btn btn--primary">View Publications</a>
@@ -52,10 +54,6 @@ This work investigates critical subnetworks and feature representations involved
 - Served as a **Section Leader for Stanford Code in Place 2026**.
 - Ranked **5th** in the RISE-MICCAI LISA 2025 Challenge on 3D hippocampus segmentation from ultra-low-field MRI.
 - Graduated **Summa Cum Laude** with an MSc in Computer Science and Engineering and a CGPA of **3.92/4.00**.
-
-<div class="phd-highlight">
-  I am actively seeking PhD opportunities in Computer Vision and Machine Learning.
-</div>
 
 <h2 id="contact">Contact</h2>
 
