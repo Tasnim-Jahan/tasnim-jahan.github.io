@@ -46,7 +46,7 @@ ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced Deep
 
 This work investigates critical subnetworks and feature representations involved in deepfake detection using the Lottery Ticket Hypothesis.
 
-**Published in:** *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC), 2025* — [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
+**Published in:** *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC), 2025* [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
 
 
 ## Selected Highlights
