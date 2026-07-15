@@ -115,12 +115,24 @@ a:hover {
 }
 
 /* Larger profile photo */
-.author__avatar img {
-  width: 190px !important;
-  height: 190px !important;
-  max-width: 190px !important;
-  object-fit: cover;
-  border-radius: 50%;
+@media (min-width: 1024px) {
+  .sidebar {
+    width: 260px !important;
+  }
+
+  .author__avatar {
+    display: block !important;
+    width: 220px !important;
+    margin: 0 auto 15px !important;
+  }
+
+  .author__avatar img {
+    width: 220px !important;
+    height: 220px !important;
+    max-width: 220px !important;
+    object-fit: cover;
+    border-radius: 50%;
+  }
 }
 
 
