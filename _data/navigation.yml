@@ -1,4 +1,3 @@
-# Main website navigation
 main:
   - title: "Home"
     url: /
@@ -6,11 +5,14 @@ main:
   - title: "Publications"
     url: /#publications
 
+  - title: "Education"
+    url: /education/
+
   - title: "Projects"
     url: /projects/
 
   - title: "Teaching & Service"
-    url: /experience/
+    url: /teaching-service/
 
   - title: "CV"
     url: /cv/
