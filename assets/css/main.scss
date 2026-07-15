@@ -42,20 +42,23 @@
 
 /* Custom academic website colours */
 :root {
+  --page-bg: #eef3f5;
+  --sidebar-bg: #ffffff;
+  --content-bg: #ffffff;
+  --header-bg: #ffffff;
   --primary: #1f4e79;
   --secondary: #2a7f9e;
-  --light-bg: #f3f7fb;
-  --text-dark: #243447;
+  --text: #243447;
   --border: #d9e4ee;
 }
 
 body {
-  color: var(--text-dark);
-  background: #eef3f5;
+  color: var(--text);
+  background: var(--page-bg);
 }
 
 .masthead {
-  background: #ffffff;
+  background: var(--header-bg);
   border-bottom: 3px solid var(--secondary);
 }
 
@@ -100,10 +103,13 @@ h3 {
 }
 
 @media (min-width: 925px) {
-  .sidebar,
+  .sidebar {
+    background: var(--sidebar-bg);
+  }
+
   .page,
   .archive {
-    background: #ffffff;
+    background: var(--content-bg);
   }
 
   .author__avatar img {
@@ -112,6 +118,11 @@ h3 {
     max-width: 175px;
     object-fit: cover;
     border-radius: 50%;
+  }
+
+  .author__content,
+  .author__urls-wrapper {
+    margin-left: 16px;
   }
 }
 /* Change 16px to 20px for more space. This will not change the sidebar width or affect the main content. */
