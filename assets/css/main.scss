@@ -155,3 +155,36 @@ body {
 .masthead {
   background: rgba(255, 255, 255, 0.90);
 }
+
+/* Fix enlarged profile image and unify page background */
+@media (min-width: 1024px) {
+  #main {
+    padding-top: 55px !important;
+  }
+
+  .sidebar {
+    width: 280px !important;
+    margin-top: 0 !important;
+    background: rgba(255, 255, 255, 0.82) !important;
+  }
+
+  .author__avatar {
+    width: 230px !important;
+    margin: 0 auto 18px !important;
+    overflow: visible !important;
+  }
+
+  .author__avatar img {
+    width: 230px !important;
+    height: 230px !important;
+    max-width: 230px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+    display: block !important;
+  }
+
+  .page,
+  .archive {
+    background: rgba(255, 255, 255, 0.82) !important;
+  }
+}
