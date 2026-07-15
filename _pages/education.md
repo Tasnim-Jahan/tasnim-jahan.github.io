@@ -66,28 +66,4 @@ author_profile: true
 - Science Group
 - GPA: **5.00/5.00**
 
-.edu-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 24px;
-  margin: 8px 0 12px;
-}
 
-.edu-row strong:last-child {
-  white-space: nowrap;
-  text-align: right;
-}
-
-@media (max-width: 700px) {
-  .edu-row {
-    display: block;
-  }
-
-  .edu-row strong:last-child {
-    display: block;
-    margin-top: 4px;
-    text-align: left;
-    white-space: normal;
-  }
-}
