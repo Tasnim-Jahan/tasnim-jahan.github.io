@@ -73,7 +73,7 @@ Submitted to the MIML Workshop, MICCAI 2026
 
 **Email:** [tasnimjahanjeny@gmail.com](mailto:tasnimjahanjeny@gmail.com)
 
-**Google Scholar:** [View profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
+**Google Scholar:** [View profile](https://scholar.google.com/citations?user=UluH2LsAAAAJ&hl=en)
 
 **GitHub:** [Tasnim-Jahan](https://github.com/Tasnim-Jahan)
 
