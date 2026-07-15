@@ -58,5 +58,3 @@ This work investigates critical subnetworks and feature representations involved
 <h2 id="contact">Contact</h2>
 
 **Email:** [tasnimjahanjeny@gmail.com](mailto:tasnimjahanjeny@gmail.com)
-
-You can also find my work through Google Scholar, GitHub, ORCID, ResearchGate, and LinkedIn using the links in the sidebar.
