@@ -143,3 +143,19 @@ h3 {
   font-weight: 700;
   border-radius: 6px;
 }
+
+@media (min-width: 1024px) {
+  #main {
+    max-width: 1280px !important;
+  }
+
+  .page {
+    width: calc(100% - 260px) !important;
+    padding-right: 20px !important;
+  }
+
+  .phd-highlight {
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+}
