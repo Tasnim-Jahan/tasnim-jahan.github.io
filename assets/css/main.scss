@@ -108,7 +108,7 @@ h3 {
   font-weight: 700;
 }
 
-/* Education and experience institution/date rows */
+/* Education, experience and project rows */
 .edu-row,
 .exp-row {
   display: flex;
@@ -133,7 +133,7 @@ h3 {
   white-space: nowrap;
 }
 
-/* Justified bullet descriptions */
+/* Justified descriptions */
 .justify-text {
   width: 100%;
   padding-right: 24px;
@@ -163,26 +163,36 @@ h3 {
     background: var(--content-bg);
   }
 
-  .author__avatar img {
-    width: 175px;
-    height: 175px;
-    max-width: 175px;
-    object-fit: cover;
-    border-radius: 50%;
-  }
-
   .author__content,
   .author__urls-wrapper {
     margin-left: 16px;
   }
+
+  .author__avatar {
+    display: block !important;
+    width: 175px !important;
+    margin: 0 auto 16px !important;
+  }
+
+  .author__avatar img {
+    display: block !important;
+    width: 175px !important;
+    height: 175px !important;
+    max-width: 175px !important;
+    margin: 0 auto !important;
+    object-fit: cover;
+    border-radius: 50%;
+  }
 }
 
+/* Use the same layout and gap for homepage and archive pages */
 @media (min-width: 1024px) {
   #main {
     max-width: 1280px !important;
   }
 
-  .page {
+  .page,
+  .archive {
     width: calc(100% - 260px) !important;
     padding-left: 24px !important;
     padding-right: 24px !important;
@@ -197,16 +207,7 @@ h3 {
     padding-right: 0 !important;
   }
 }
-/*gap between the sidebar and main content on the Education, Projects, and Teaching & Service pages.*/
-@media (min-width: 1024px) {
-  .archive {
-    padding-left: 24px !important;
-    padding-right: 24px !important;
-    box-sizing: border-box;
-  }
-}
 
-/*propic middle*/
 /* Mobile layout */
 @media (max-width: 700px) {
   .edu-row,
@@ -234,25 +235,5 @@ h3 {
 
   .justify-text ul {
     padding-left: 25px;
-  }
-}
-
-/* Centre profile picture in desktop sidebar */
-@media (min-width: 925px) {
-  .author__avatar {
-    display: block !important;
-    width: 175px !important;
-    margin: 0 auto 16px !important;
-  }
-
-  .author__avatar img {
-    display: block !important;
-    width: 175px !important;
-    height: 175px !important;
-    margin: 0 auto !important;
-    object-fit: cover;
-    border-radius: 50%;
-  }
-}
   }
 }
