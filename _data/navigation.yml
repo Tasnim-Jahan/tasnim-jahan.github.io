@@ -3,11 +3,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /portfolio/
-
   - title: "Publications"
-    url: /publications/
+    url: /#publications
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Teaching & Service"
+    url: /experience/
 
   - title: "CV"
     url: /cv/
