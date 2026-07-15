@@ -11,7 +11,11 @@ Hello! I am **Tasnim Jahan**, a **computer vision and machine learning researche
 
 My research focuses on few-shot learning, domain generalization, representation learning, foundation models, and image segmentation. I am particularly interested in developing robust, transferable, and data-efficient methods that generalize across datasets and domains.
 
-I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics**, which underpin my interest in mathematically grounded and algorithm-focused machine learning research.
+I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics** from Comilla University, which underpin my interest in mathematically grounded and algorithm-focused machine learning research.
+
+<div class="phd-highlight">
+  I am actively seeking PhD opportunities in Computer Vision and Machine Learning.
+</div>
 
 <h2 id="publications">Publications and Ongoing Research</h2>
 
