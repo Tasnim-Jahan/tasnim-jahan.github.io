@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Tasnim Jahan**, a computer vision and machine learning researcher from Bangladesh. My research focuses on developing robust and transferable learning methods, particularly for problems where annotated data are limited or distributions differ across datasets and domains.
+Hello! I am **Tasnim Jahan**, a **computer vision and machine learning researcher from Bangladesh**. I currently conduct research under the supervision of **Prof. Andrew King (King’s College London)** and **Prof. Swakkhar Shatabda (BRAC University)**.
 
-My primary research interests include **representation learning, few-shot learning, domain generalization, foundation models, and image segmentation**, with applications in medical and general computer vision.
+My research focuses on **few-shot learning, domain generalization, representation learning, foundation models, and image segmentation**. I am particularly interested in developing **robust, transferable, and data-efficient methods** that generalize across datasets and domains.
 
-I hold an MSc in Computer Science and Engineering with a major in Data Science from United International University, where I graduated **Summa Cum Laude** with a CGPA of **3.92/4.00**. I also hold BSc and MSc degrees in Mathematics.
+I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from United International University, where I graduated ***Summa Cum Laude***. I also hold **B.Sc. and M.Sc. degrees in Mathematics**, which underpin my interest in **mathematically grounded and algorithm-focused machine learning research**.
 
-I am currently seeking **PhD opportunities in Computer Vision and Machine Learning** where I can work on methodologically challenging problems involving transferable, data-efficient, and reliable visual learning.
+**I am actively seeking PhD opportunities in Computer Vision and Machine Learning.**
 
 <div style="margin: 22px 0;">
   <a href="/publications/" class="btn btn--primary">View Publications</a>
@@ -21,15 +21,6 @@ I am currently seeking **PhD opportunities in Computer Vision and Machine Learni
   <a href="/cv/" class="btn btn--primary">View CV</a>
 </div>
 
-## Research Interests
-
-- Computer Vision
-- Representation Learning
-- Few-Shot Learning
-- Domain Generalization and Domain Adaptation
-- Foundation Models
-- Medical Image Analysis
-- Explainable and Trustworthy AI
 
 ## Featured Research
 
@@ -67,24 +58,17 @@ This work investigates critical subnetworks and feature representations involved
 
 [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
 
+
 ## Selected Highlights
 
+- Served as a **Section Leader for Stanford Code in Place 2026**.
 - Ranked **5th** in the RISE-MICCAI LISA 2025 Challenge on 3D hippocampus segmentation from ultra-low-field MRI.
-- Selected as a **Section Leader for Stanford Code in Place 2026**.
-- MSc in Computer Science and Engineering with a CGPA of **3.92/4.00**.
-- Graduated **Summa Cum Laude**.
-- Published research at **IEEE SMC 2025**.
-- Active participant in the **RISE-MICCAI Mentorship Program**.
+- Graduated **Summa Cum Laude** with an MSc in Computer Science and Engineering and a CGPA of **3.92/4.00**.
 
-## Research Direction
-
-My long-term research goal is to develop computer vision methods that remain reliable when labelled data are scarce, acquisition conditions differ, or models are applied to previously unseen domains. I am particularly interested in representation learning, foundation models, few-shot learning, and domain generalization beyond one specific anatomical structure or application.
-
-I welcome discussions regarding PhD opportunities, research collaboration, and related work in computer vision and machine learning.
 
 <h2 id="contact">Contact</h2>
 
-I am open to PhD opportunities, research collaborations, and discussions related to computer vision, representation learning, few-shot learning, domain generalization, and medical image analysis.
+**I am actively seeking PhD opportunities in Computer Vision and Machine Learning.**
 
 **Email:** [tasnimjahanjeny@gmail.com](mailto:tasnimjahanjeny@gmail.com)
 
