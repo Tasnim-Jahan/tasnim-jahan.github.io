@@ -228,11 +228,11 @@ h3 {
 
 
 /*to bring pro pic in th middle of the siedebar*/
-    @media (min-width: 925px) {
+@media (min-width: 925px) {
   .author__avatar {
+    width: 100% !important;
     display: flex !important;
     justify-content: center !important;
-    width: 100% !important;
     margin: 0 auto 16px !important;
   }
 
