@@ -114,3 +114,10 @@ h3 {
     border-radius: 50%;
   }
 }
+/* Change 16px to 20px for more space. This will not change the sidebar width or affect the main content. */
+@media (min-width: 925px) {
+  .author__content,
+  .author__urls-wrapper {
+    margin-left: 16px;
+  }
+}
