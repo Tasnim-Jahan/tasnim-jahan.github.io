@@ -14,7 +14,7 @@ author_profile: true
   <strong>April 2026 – May 2026</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Selected through a competitive process from approximately 2,000 applicants to join the global teaching team.
 - Taught Python programming to an international cohort.
@@ -31,7 +31,7 @@ author_profile: true
   <strong>January 2017 – March 2018</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Taught mathematics to more than 200 diploma-level students across engineering disciplines.
 - Designed lectures, assignments, and assessments for students with varied academic backgrounds.
@@ -47,7 +47,7 @@ author_profile: true
   <strong>March 2018 – December 2018</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Delivered mathematics instruction in English medium.
 - Monitored student progress and founded a mathematics club to improve engagement.
@@ -63,7 +63,7 @@ author_profile: true
   <strong>January 2022 – April 2022</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Supported the implementation of a UNICEF-funded education programme.
 - Trained teachers in effective teaching methodologies and classroom practices.
@@ -80,7 +80,7 @@ author_profile: true
   <strong>November 2021 – December 2021</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Collected qualitative and quantitative data from approximately 100 participants using KoboToolbox.
 - Ensured data quality, consistency, and proper documentation.
@@ -96,7 +96,7 @@ author_profile: true
   <strong>January 2019 – April 2020</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Delivered literacy and numeracy sessions to approximately 300 learners in a UNICEF-funded programme.
 - Designed learning materials and conducted baseline and endline data collection.
@@ -112,7 +112,7 @@ author_profile: true
   <strong>Academic Service</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Completed five peer reviews for this Q1 journal.
 
@@ -127,43 +127,8 @@ author_profile: true
   <strong>October 2025 – October 2026</strong>
 </div>
 
-<div class="justify-text">
+<div class="justify-text" markdown="1">
 
 - Participated in research mentorship, academic discussions, and professional development activities within the MICCAI community.
 
 </div>
-
-
-.exp-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 20px;
-  margin: 6px 0 10px;
-}
-
-.exp-row strong:last-child {
-  white-space: nowrap;
-  text-align: right;
-}
-
-.justify-text {
-  text-align: justify;
-}
-
-.justify-text li {
-  margin-bottom: 6px;
-}
-
-@media (max-width: 700px) {
-  .exp-row {
-    display: block;
-  }
-
-  .exp-row strong:last-child {
-    display: block;
-    margin-top: 4px;
-    text-align: left;
-    white-space: normal;
-  }
-}
