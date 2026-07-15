@@ -180,3 +180,42 @@ h3 {
     box-sizing: border-box;
   }
 }
+
+.exp-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 100%;
+  gap: 20px;
+  margin: 6px 0 10px;
+}
+
+.exp-row strong:first-child {
+  text-align: left;
+}
+
+.exp-row strong:last-child {
+  margin-left: auto;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+@media (max-width: 700px) {
+  .exp-row {
+    display: block;
+  }
+
+  .exp-row strong {
+    display: block;
+  }
+
+  .exp-row strong:last-child {
+    margin-top: 4px;
+    text-align: left;
+    white-space: normal;
+  }
+}
