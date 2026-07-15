@@ -24,7 +24,7 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 </div>
 
 
-## Featured Research
+<h2 id="research">Research</h2>
 
 ### HyProDINO: Hybrid Prototype-guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
 
