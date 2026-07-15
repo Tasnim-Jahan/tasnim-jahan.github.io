@@ -225,5 +225,21 @@ h3 {
 
   .justify-text ul {
     padding-left: 25px;
+
+
+/*to bring pro pic in th middle of the siedebar*/
+    @media (min-width: 925px) {
+  .author__avatar {
+    display: flex !important;
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 0 auto 16px !important;
+  }
+
+  .author__avatar img {
+    display: block !important;
+    margin: 0 auto !important;
+  }
+}
   }
 }
