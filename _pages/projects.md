@@ -18,7 +18,7 @@ author_profile: true
 
 - Developed a MONAI-based 3D deep learning pipeline for bilateral hippocampus segmentation from ultra-low-field MRI.
 - Implemented and compared Attention U-Net, DynUNet, SegResNet, and UNETR using class-balanced cropping and sliding-window inference.
-- Attention U-Net achieved the highest validation Dice of approximately **0.60** with post-processing.
+- Attention U-Net achieved the highest validation Dice of approximately **60%** with post-processing.
 
 </div>
 
@@ -35,7 +35,7 @@ author_profile: true
 
 - Developed an end-to-end deep learning pipeline for thyroid nodule segmentation using the TN3K ultrasound dataset.
 - Implemented and compared U-Net variants with VGG16, VGG19, ResNet50, and MobileNetV2 encoders.
-- MobileNetV2-based U-Net achieved the strongest performance among the evaluated models, with a Dice score of **0.847** and an IoU of **0.738**.
+- MobileNetV2-based U-Net achieved the strongest performance among the evaluated models, with a Dice score of **84.70%** and an IoU of **73.80%**.
 
 </div>
 
