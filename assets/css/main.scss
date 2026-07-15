@@ -199,6 +199,52 @@ h3 {
 }
 
 /*propic middle*/
+/* Mobile layout */
+@media (max-width: 700px) {
+  .edu-row,
+  .exp-row {
+    display: block;
+    padding-right: 0;
+  }
 
+  .edu-row strong,
+  .exp-row strong {
+    display: block;
+  }
+
+  .edu-row strong:last-child,
+  .exp-row strong:last-child {
+    margin-top: 4px;
+    margin-left: 0;
+    text-align: left;
+    white-space: normal;
+  }
+
+  .justify-text {
+    padding-right: 0;
+  }
+
+  .justify-text ul {
+    padding-left: 25px;
+  }
+}
+
+/* Centre profile picture in desktop sidebar */
+@media (min-width: 925px) {
+  .author__avatar {
+    display: block !important;
+    width: 175px !important;
+    margin: 0 auto 16px !important;
+  }
+
+  .author__avatar img {
+    display: block !important;
+    width: 175px !important;
+    height: 175px !important;
+    margin: 0 auto !important;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+}
   }
 }
