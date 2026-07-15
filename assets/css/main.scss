@@ -182,20 +182,22 @@ h3 {
 }
 
 .edu-row,
-.exp-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
+.exp-row,
+.justify-text {
   width: 100%;
-  gap: 24px;
-  margin: 8px 0 12px;
+  max-width: 100%;
+  padding-left: 0;
   padding-right: 24px;
   box-sizing: border-box;
 }
 
-.edu-row strong:first-child,
-.exp-row strong:first-child {
-  text-align: left;
+.edu-row,
+.exp-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+  margin: 8px 0 12px;
 }
 
 .edu-row strong:last-child,
@@ -213,7 +215,6 @@ h3 {
   .edu-row,
   .exp-row {
     display: block;
-    padding-right: 0;
   }
 
   .edu-row strong,
@@ -226,5 +227,11 @@ h3 {
     margin-top: 4px;
     text-align: left;
     white-space: normal;
+  }
+
+  .edu-row,
+  .exp-row,
+  .justify-text {
+    padding-right: 0;
   }
 }
