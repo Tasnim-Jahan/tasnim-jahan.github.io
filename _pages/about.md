@@ -19,8 +19,6 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 
 <h2 id="publications">Publications and Ongoing Research</h2>
 
-<h2 id="publications">Publications and Ongoing Research</h2>
-
 ### HyProDINO: Hybrid Prototype-guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
 
 **Authors:** **Tasnim Jahan**, Andrew King, Swakkhar Shatabda
