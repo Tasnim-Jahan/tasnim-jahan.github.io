@@ -19,15 +19,21 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 
 <h2 id="publications">Publications and Ongoing Research</h2>
 
+<h2 id="publications">Publications and Ongoing Research</h2>
+
 ### HyProDINO: Hybrid Prototype-guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
+
+**Authors:** **Tasnim Jahan**, Andrew King, Swakkhar Shatabda
 
 HyProDINO combines trainable medical image representations with transferable semantic features from DINOv2. The framework uses support-derived prototypes, query-aware prototype calibration, support-conditioned adaptation, and dense support-query relation modelling to segment structures in previously unseen target domains using only a few annotated examples.
 
-**Status:** Submitted to the MIML Workshop, MICCAI 2026.
+**Status:** Accepted for **oral presentation** at the Medical Imaging with Machine Learning (MIML) Workshop, MICCAI 2026.
 
 ---
 
-### ThyCLIPNet: BiomedCLIP-Guided Lightweight Framework for Robust Thyroid Nodule Segmentation
+### ThyCLIPNet: A BiomedCLIP-Guided Lightweight Attention-Enhanced DeepLabV3+ Framework for Robust Thyroid Nodule Segmentation
+
+**Authors:** **Tasnim Jahan**, Md Easin Arafat, Swakkhar Shatabda
 
 ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced DeepLabV3+ architecture for accurate and computationally efficient thyroid nodule segmentation across multiple ultrasound datasets.
 
@@ -37,9 +43,11 @@ ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced Deep
 
 ### Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis
 
+**Authors:** L. Al Amin, Md. Ismail Hossain, Thanh Thi Nguyen, **Tasnim Jahan**, Mahbubul Islam, Faisal Quader
+
 This work investigates critical subnetworks and feature representations involved in deepfake detection using the Lottery Ticket Hypothesis.
 
-**Published in:** *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC), 2025* [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
+**Published in:** *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC), 2025* — [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
 
 
 ## Selected Highlights
