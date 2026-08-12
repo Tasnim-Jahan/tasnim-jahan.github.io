@@ -19,9 +19,9 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 
 <h2 id="publications">Publications and Ongoing Research</h2>
 
-### HyProDINO: Hybrid Prototype-guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
+### HyProDINO: Hybrid Prototype Guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
 
-**Authors:** **Tasnim Jahan**, Andrew King, Swakkhar Shatabda<br>
+**Authors:** **Tasnim Jahan**, Andrew P. King, Swakkhar Shatabda<br>
 HyProDINO combines trainable medical image representations with transferable semantic features from DINOv2. The framework uses support-derived prototypes, query-aware prototype calibration, support-conditioned adaptation, and dense support-query relation modelling to segment structures in previously unseen target domains using only a few annotated examples.<br>
 **Status:** Accepted for **oral presentation** at the Medical Imaging with Machine Learning (MIML) Workshop, MICCAI 2026.
 
