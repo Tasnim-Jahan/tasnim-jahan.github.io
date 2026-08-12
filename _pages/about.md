@@ -42,7 +42,7 @@ This work investigates critical subnetworks and feature representations involved
 ## Selected Highlights
 
 - Awarded the **MICCAI 2026 RISE Travel Grant** to attend MICCAI 2026 in Strasbourg, France.
-- Served as a **Section Leader for Stanford Code in Place 2026**.
+- Served as a **Section Leader** for **Stanford Code in Place 2026**.
 - Ranked **5th** in the RISE-MICCAI LISA 2025 Challenge on 3D hippocampus segmentation from ultra-low-field MRI.
 - Graduated **Summa Cum Laude** with an MSc in Computer Science and Engineering and a CGPA of **3.92/4.00**.
 
