@@ -22,8 +22,6 @@ author_profile: true
 
 </div>
 
----
-
 ### Thyroid Nodule Segmentation
 
 <div class="exp-row">
@@ -39,8 +37,6 @@ author_profile: true
 
 </div>
 
----
-
 ### Spatio-Temporal Data Analysis Using Deep Learning
 
 <div class="exp-row">
@@ -55,8 +51,6 @@ author_profile: true
 - Summarized real-world applications, open challenges, and future research directions.
 
 </div>
-
----
 
 ### Face Mask Detection
 
@@ -90,8 +84,6 @@ author_profile: true
 
 </div>
 
----
-
 ### Predicting Customers’ Future Purchases
 
 <div class="exp-row">
@@ -107,8 +99,6 @@ author_profile: true
 
 </div>
 
----
-
 ### Bangla Financial Sentiment Classification
 
 <div class="exp-row">
@@ -123,8 +113,6 @@ author_profile: true
 - SVM achieved the highest F1-score of **78%**, while Logistic Regression achieved an accuracy of **76.60%**.
 
 </div>
-
----
 
 ### LLM-Enhanced Stock Movement Prediction
 
