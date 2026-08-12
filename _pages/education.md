@@ -21,13 +21,10 @@ author_profile: true
 
 
 ## Higher Secondary Certificate (HSC)
-- GPA: **5.00/5.00**
-- Science Group
-
+- GPA: **5.00/5.00** (Science Group)
 
 ## Secondary School Certificate (SSC)
-- GPA: **5.00/5.00**
-- Science Group
+- GPA: **5.00/5.00** (Science Group)
 
 
 
