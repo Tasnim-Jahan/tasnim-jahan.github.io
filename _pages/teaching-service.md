@@ -22,7 +22,6 @@ author_profile: true
 
 </div>
 
----
 
 ### Instructor — Mathematics
 
@@ -38,7 +37,6 @@ author_profile: true
 
 </div>
 
----
 
 ### Junior Teacher — Mathematics
 
@@ -71,7 +69,6 @@ author_profile: true
 
 </div>
 
----
 
 ### Field Data Collector
 
@@ -87,7 +84,6 @@ author_profile: true
 
 </div>
 
----
 
 ### Education Facilitator
 
@@ -108,24 +104,18 @@ author_profile: true
 ### Reviewer
 
 <div class="exp-row">
-  <strong>Biomedical Signal Processing and Control</strong>
+  <strong>Biomedical Signal Processing and Control (Q1) · MICCAI 2026 Workshops</strong>
   <strong>Academic Service</strong>
 </div>
 
 <div class="justify-text" markdown="1">
 
-- Completed five peer reviews for this Q1 journal.
+- **Journal Reviewer**, *Biomedical Signal Processing and Control (Q1)* — reviewed **6 manuscripts**.
+- **Workshop Reviewer**, MICCAI 2026 MSB EMERGE and FAIMI-BRIDGE-EPIMI — reviewed **3 manuscripts**.
 
 </div>
 
----
 
-### Mentee — RISE-MICCAI Mentorship Program
-
-<div class="exp-row">
-  <strong>RISE-MICCAI</strong>
-  <strong>October 2025 – October 2026</strong>
-</div>
 
 <div class="justify-text" markdown="1">
 
