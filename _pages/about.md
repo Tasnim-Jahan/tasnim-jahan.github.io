@@ -23,7 +23,7 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 
 **Authors:** **Tasnim Jahan**, Andrew P. King, Swakkhar Shatabda<br>
 HyProDINO combines trainable medical image representations with transferable semantic features from DINOv2. The framework uses support-derived prototypes, query-aware prototype calibration, support-conditioned adaptation, and dense support-query relation modelling to segment structures in previously unseen target domains using only a few annotated examples.<br>
-**Status:** Accepted for **oral presentation** at the Medical Imaging with Machine Learning (MIML) Workshop, MICCAI 2026.
+**Status:** Accepted for **oral presentation** at the Machine Learning in Medical Imaging (MLMI) Workshop, MICCAI 2026 — [View publication](https://papers.miccai.org/miccai-2026-sat/paper/MLMI_054.pdf)
 
 
 ### ThyCLIPNet: A BiomedCLIP-Guided Lightweight Attention-Enhanced DeepLabV3+ Framework for Robust Thyroid Nodule Segmentation
