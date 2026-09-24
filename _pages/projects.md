@@ -10,7 +10,7 @@ author_profile: true
 ### Hippocampus Segmentation — Ultra-Low-Field MRI
 
 <div class="exp-row">
-  <strong>Python · MONAI · PyTorch · <a href="https://github.com/Tasnim-Jahan/Hippocampus-Segmentation-Ultra-low-field-MRI-3D">Code</a></strong>
+  <strong>Python · MONAI · PyTorch · <a href="https://github.com/Tasnim-Jahan/RISE-MICCAI-Challenge-2025-Task-2A-Hippocampus-Segmentation-on-Ultra-Low-Field-MRI-">Code</a></strong>
   <strong>July 2025 – September 2025</strong>
 </div>
 
