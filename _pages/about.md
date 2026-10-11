@@ -19,25 +19,25 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 
 <h2 id="publications">Publications and Ongoing Research</h2>
 
+
 ### HyProDINO: Hybrid Prototype Guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
 
 **Authors:** **Tasnim Jahan**, Andrew P. King, Swakkhar Shatabda<br>
 HyProDINO combines trainable medical image representations with transferable semantic features from DINOv2. The framework uses support-derived prototypes, query-aware prototype calibration, support-conditioned adaptation, and dense support-query relation modelling to segment structures in previously unseen target domains using only a few annotated examples.<br>
-**Status:** Accepted for **oral presentation** at the Machine Learning in Medical Imaging (MLMI) Workshop, MICCAI 2026 — [View publication](https://papers.miccai.org/miccai-2026-sat/paper/MLMI_054.pdf)
-
+**Published in:** *17th International Workshop on Machine Learning in Medical Imaging (MLMI), MICCAI 2026* — Selected for **oral presentation (18 of 66 accepted papers)** and poster presentation — [View publication](https://papers.miccai.org/miccai-2026-sat/paper/MLMI_054.pdf)
 
 ### ThyCLIPNet: A BiomedCLIP-Guided Lightweight Attention-Enhanced DeepLabV3+ Framework for Robust Thyroid Nodule Segmentation
 
 **Authors:** **Tasnim Jahan**, Md Easin Arafat, Swakkhar Shatabda<br>
 ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced DeepLabV3+ architecture for accurate and computationally efficient thyroid nodule segmentation across multiple ultrasound datasets.<br>
-**Status:** Manuscript under revision at a Q1 journal.
-
+**Preprint:** arXiv (2026) — [View publication](https://arxiv.org/abs/2610.04743)
 
 ### Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis
 
 **Authors:** L. Al Amin, Md. Ismail Hossain, Thanh Thi Nguyen, **Tasnim Jahan**, Mahbubul Islam, Faisal Quader<br>
 This work investigates critical subnetworks and feature representations involved in deepfake detection using the Lottery Ticket Hypothesis.<br>
 **Published in:** *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC), 2025* — [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
+
 
 ## Selected Highlights
 
