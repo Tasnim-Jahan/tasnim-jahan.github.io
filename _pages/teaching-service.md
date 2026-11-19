@@ -99,19 +99,20 @@ author_profile: true
 
 </div>
 
+
 ## Academic Service
 
-### Reviewer
+### Peer Review
 
 <div class="exp-row">
-  <strong>Biomedical Signal Processing and Control (Q1) · MICCAI 2026 Workshops</strong>
+  <strong>Journal and Conference Workshop Reviewing</strong>
   <strong>Academic Service</strong>
 </div>
 
 <div class="justify-text" markdown="1">
 
-- **Journal Reviewer**, *Biomedical Signal Processing and Control (Q1)* — reviewed **6 manuscripts**.
-- **Workshop Reviewer**, MICCAI 2026 MSB EMERGE and FAIMI-BRIDGE-EPIMI — reviewed **3 manuscripts**.
+- **Journal Reviewer:** *Biomedical Signal Processing and Control* (Q1, Elsevier) — reviewed **6 manuscripts**.
+- **Workshop Reviewer:** *MICCAI 2026* (MSB EMERGE and FAIMI-BRIDGE-EPIMI) — reviewed **3 manuscripts**.
 
 </div>
 
