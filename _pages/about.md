@@ -19,6 +19,11 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 
 <h2 id="publications">Publications and Ongoing Research</h2>
 
+### ThyCLIPNet: A BiomedCLIP-Guided Lightweight Attention-Enhanced DeepLabV3+ Framework for Robust Thyroid Nodule Segmentation
+
+**Authors:** **Tasnim Jahan**, Md Easin Arafat, Swakkhar Shatabda<br>
+ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced DeepLabV3+ architecture for accurate and computationally efficient thyroid nodule segmentation across multiple ultrasound datasets.<br>
+**Accepted in:** *Applied Soft Computing* (Elsevier, Q1, Impact Factor: 7.8), 2026 — [Preprint](https://arxiv.org/abs/2610.04743)
 
 ### HyProDINO: Hybrid Prototype Guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
 
@@ -26,26 +31,24 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 HyProDINO combines trainable medical image representations with transferable semantic features from DINOv2. The framework uses support-derived prototypes, query-aware prototype calibration, support-conditioned adaptation, and dense support-query relation modelling to segment structures in previously unseen target domains using only a few annotated examples.<br>
 **Published in:** *17th International Workshop on Machine Learning in Medical Imaging (MLMI), MICCAI 2026* — Selected for **oral presentation (18 of 66 accepted papers)** and poster presentation — [View publication](https://papers.miccai.org/miccai-2026-sat/paper/MLMI_054.pdf)
 
-### ThyCLIPNet: A BiomedCLIP-Guided Lightweight Attention-Enhanced DeepLabV3+ Framework for Robust Thyroid Nodule Segmentation
-
-**Authors:** **Tasnim Jahan**, Md Easin Arafat, Swakkhar Shatabda<br>
-ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced DeepLabV3+ architecture for accurate and computationally efficient thyroid nodule segmentation across multiple ultrasound datasets.<br>
-**Preprint:** arXiv (2026) — [View publication](https://arxiv.org/abs/2610.04743)
-
 ### Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis
 
 **Authors:** L. Al Amin, Md. Ismail Hossain, Thanh Thi Nguyen, **Tasnim Jahan**, Mahbubul Islam, Faisal Quader<br>
 This work investigates critical subnetworks and feature representations involved in deepfake detection using the Lottery Ticket Hypothesis.<br>
 **Published in:** *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC), 2025* — [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
 
+## News
+
+- **November 2026:** My first-author paper, **ThyCLIPNet**, has been accepted in *Applied Soft Computing* (Elsevier, Q1, Impact Factor: 7.8).
+- **October 2026:** My first-author paper, **HyProDINO**, was presented at MLMI, MICCAI 2026, as an oral presentation.
 
 ## Selected Highlights
 
 - Awarded the **MICCAI 2026 RISE Travel Grant** to attend MICCAI 2026 in Strasbourg, France.
 - Served as a **Section Leader** for **Stanford Code in Place 2026**.
 - Ranked **5th** in the RISE-MICCAI LISA 2025 Challenge on 3D hippocampus segmentation from ultra-low-field MRI.
-- Graduated **Summa Cum Laude** with an MSc in Computer Science and Engineering and a CGPA of **3.92/4.00**.
-
+- Graduated **Summa Cum Laude** with an M.Sc. in Computer Science and Engineering (Data Science) and received **Merit-Based Scholarships (5 consecutive semesters)**.
+  
 <h2 id="contact">Contact</h2>
 
 **Email:** [tasnimjahanjeny@gmail.com](mailto:tasnimjahanjeny@gmail.com)
