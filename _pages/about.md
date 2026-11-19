@@ -23,7 +23,7 @@ I hold an **M.Sc. in Computer Science and Engineering (Data Science)** from Unit
 
 **Authors:** **Tasnim Jahan**, Md Easin Arafat, Swakkhar Shatabda<br>
 ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced DeepLabV3+ architecture for accurate and computationally efficient thyroid nodule segmentation across multiple ultrasound datasets.<br>
-**Accepted in:** *Applied Soft Computing* (Elsevier, Q1, Impact Factor: 7.8), 2026 — [Preprint](https://arxiv.org/abs/2610.04743)
+**Published in:** *Applied Soft Computing* (Elsevier, Q1, Impact Factor: 7.8), 2026 — [DOI](https://doi.org/10.1016/j.asoc.2026.116905) | [Preprint](https://arxiv.org/abs/2610.04743)
 
 ### HyProDINO: Hybrid Prototype Guided DINO Framework for Cross-Domain Few-Shot Medical Image Segmentation
 
