@@ -29,7 +29,7 @@ ThyCLIPNet integrates BiomedCLIP representations with an attention-enhanced Deep
 
 **Authors:** **Tasnim Jahan**, Andrew P. King, Swakkhar Shatabda<br>
 HyProDINO combines trainable medical image representations with transferable semantic features from DINOv2. The framework uses support-derived prototypes, query-aware prototype calibration, support-conditioned adaptation, and dense support-query relation modelling to segment structures in previously unseen target domains using only a few annotated examples.<br>
-**Published in:** *17th International Workshop on Machine Learning in Medical Imaging (MLMI), MICCAI 2026* — Selected for **oral presentation (18 of 66 accepted papers)** and poster presentation — [View publication](https://papers.miccai.org/miccai-2026-sat/paper/MLMI_054.pdf)
+**Published in:** *17th International Workshop on Machine Learning in Medical Imaging (MLMI), MICCAI 2026* — Selected for oral presentation (18 of 66 accepted papers) and poster presentation — [View publication](https://papers.miccai.org/miccai-2026-sat/paper/MLMI_054.pdf)
 
 ### Uncovering Critical Features for Deepfake Detection through the Lottery Ticket Hypothesis
 
