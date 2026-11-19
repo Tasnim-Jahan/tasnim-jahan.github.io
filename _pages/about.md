@@ -37,6 +37,11 @@ HyProDINO combines trainable medical image representations with transferable sem
 This work investigates critical subnetworks and feature representations involved in deepfake detection using the Lottery Ticket Hypothesis.<br>
 **Published in:** *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC), 2025* — [View publication](https://doi.org/10.1109/SMC58881.2025.11342662)
 
+### Ongoing Research: HyProDINO Extension
+
+Extending HyProDINO through methodological improvements and comprehensive cross-domain evaluation, with a focus on enhancing representation learning, domain generalization, and few-shot adaptation for medical image segmentation.<br>
+**Status:** Journal manuscript in preparation.
+
 ## News
 
 - **November 2026:** My first-author paper, **ThyCLIPNet**, has been accepted in *Applied Soft Computing* (Elsevier, Q1, Impact Factor: 7.8).
